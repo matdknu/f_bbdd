@@ -1,0 +1,251 @@
+"rut","nombre_matriculado","puntaja_notas","puntaja_ranking_notas","puntaja_lenguaje","puntaja_matemática","puntaja_historia","puntaja_ciencias","puntaja_otro","género","dirección_región","dirección_provincia","dirección_comuna","dirección_calle","dirección_número"
+"20406350-2","Sofia Garcia",820,730,738,744,692,801,846,"Masculino","Aconcagua","Osorno","Valparaíso","Calle 18",166
+"10913602-9","Mariana Rodriguez",796,840,738,669,833,686,781,"Femenino","Los Lagos","Coquimbo","Lago Verde","Calle 87",458
+"13269749-4","Camila Perez",793,748,666,722,660,748,803,"Masculino","Biobío","Valparaíso","Valparaíso","Calle 55",226
+"17705240-9","Mariana Martinez",816,819,671,805,659,750,834,"Femenino","Metropolitana","Coquimbo","Valparaíso","Calle 100",518
+"15914367-4","Carlos Lopez",745,790,735,652,848,685,727,"Masculino","Santiago","Santiago","Lago Verde","Calle 142",217
+"22104027-8","Diego Lopez",699,841,674,764,734,694,849,"Masculino","Aconcagua","Osorno","Santiago Centro","Calle 105",930
+"18955868-2","Francisca Hernandez",796,834,832,694,762,836,807,"Femenino","Coquimbo","Santiago","Santiago Centro","Calle 82",415
+"14691993-6","Javier Gonzalez",781,743,850,710,841,767,820,"Femenino","Metropolitana","Valparaíso","Santiago Centro","Calle 124",490
+"21138696-2","Diego Lopez",828,680,709,834,823,825,705,"Femenino","Biobío","Valparaíso","Valparaíso","Calle 106",706
+"20683981-0","Mariana Hernandez",812,700,812,709,766,726,744,"Femenino","Coquimbo","Coquimbo","Osorno","Calle 40",117
+"12766694-4","Javier Hernandez",683,773,771,845,651,781,829,"Masculino","Biobío","Valparaíso","Osorno","Calle 16",788
+"14924558-9","Ana Rodriguez",806,666,751,654,726,840,723,"Masculino","Santiago","Santiago","Santiago Centro","Calle 114",777
+"17087878-8","Camila Larrahona",726,850,819,661,708,665,732,"Masculino","Santiago","Santiago","Valparaíso","Calle 90",432
+"21040585-6","Francisca Osorio",703,764,664,782,774,769,745,"Femenino","Santiago","Concepción","Concepción","Calle 79",903
+"20095547-4","Sofia Martinez",716,827,792,737,802,839,782,"Femenino","Coquimbo","Concepción","Osorno","Calle 82",819
+"18789812-5","Luis Garcia",738,722,685,711,800,800,778,"Femenino","Aconcagua","Valparaíso","Santiago Centro","Calle 18",993
+"24214433-4","Javier Larrahona",702,711,674,717,669,681,725,"Femenino","Los Lagos","Coquimbo","Osorno","Calle 138",275
+"14678219-1","Carlos Perez",817,771,818,773,845,672,795,"Femenino","Santiago","Porvenir","Osorno","Calle 116",583
+"16344696-8","Mariana Garcia",782,836,654,747,684,846,783,"Masculino","Metropolitana","Valparaíso","Lago Verde","Calle 99",112
+"12466068-8","Camila Hernandez",654,835,730,745,829,725,713,"Masculino","Aconcagua","Osorno","Lago Verde","Calle 4",729
+"21417689-3","Mariana Martinez",743,735,779,842,650,771,744,"Masculino","Los Lagos","Concepción","Osorno","Calle 112",897
+"16138629-7","Diego Osorio",720,824,700,732,733,831,827,"Femenino","Coquimbo","Santiago","Santiago Centro","Calle 16",230
+"15599061-6","Diego Hernandez",759,681,750,788,732,732,819,"Masculino","Aconcagua","Valparaíso","Concepción","Calle 143",144
+"20412783-0","Francisca Garcia",794,751,737,688,816,707,810,"Femenino","Santiago","Osorno","Osorno","Calle 32",708
+"17710513-0","Victor Rodriguez",747,753,724,678,771,752,771,"Femenino","Biobío","Valparaíso","Santiago Centro","Calle 100",296
+"12183683-4","Diego Perez",666,773,810,654,688,665,743,"Femenino","Los Lagos","Coquimbo","Santiago Centro","Calle 140",311
+"13374357-8","Victor Hernandez",838,843,784,843,745,821,678,"Femenino","Aconcagua","Santiago","Concepción","Calle 2",712
+"20478573-8","Sofia Osorio",660,778,664,818,745,659,839,"Femenino","Biobío","Coquimbo","Osorno","Calle 49",832
+"24051618-7","Victor Larrahona",663,795,736,675,712,708,655,"Femenino","Santiago","Osorno","Valparaíso","Calle 117",242
+"17294237-8","Mariana Diaz",753,720,660,677,686,785,708,"Masculino","Coquimbo","Santiago","Porvenir","Calle 70",123
+"17179421-2","Sofia Garcia",810,740,697,696,819,712,798,"Femenino","Santiago","Valparaíso","Porvenir","Calle 59",710
+"19283036-6","Luis Lopez",811,720,674,719,708,797,674,"Masculino","Aconcagua","Santiago","Porvenir","Calle 68",923
+"14349590-5","Carlos Rodriguez",841,685,787,719,825,667,754,"Femenino","Los Lagos","Coquimbo","Porvenir","Calle 148",20
+"17935822-4","Diego Larrahona",787,718,677,768,680,687,763,"Masculino","Metropolitana","Valparaíso","Osorno","Calle 102",697
+"20788487-2","Mariana Gonzalez",774,724,783,653,735,777,664,"Masculino","Santiago","Santiago","Valparaíso","Calle 139",423
+"14832433-9","Camila Diaz",687,776,661,841,836,680,721,"Masculino","Aconcagua","Coquimbo","Concepción","Calle 69",214
+"14848341-3","Ana Rodriguez",661,676,796,671,830,683,671,"Masculino","Biobío","Coquimbo","Osorno","Calle 40",160
+"21349776-5","Sofia Gonzalez",684,691,812,728,734,766,814,"Femenino","Santiago","Osorno","Santiago Centro","Calle 1",741
+"20632935-2","Mariana Larrahona",753,724,657,655,741,826,709,"Femenino","Los Lagos","Santiago","Lago Verde","Calle 17",878
+"16120270-7","Carlos Martinez",836,805,704,772,824,836,699,"Femenino","Los Lagos","Santiago","Valparaíso","Calle 50",142
+"17365590-6","Mariana Garcia",682,682,741,706,791,725,657,"Femenino","Coquimbo","Santiago","Osorno","Calle 113",315
+"24432206-6","Javier Perez",820,772,758,716,738,726,765,"Femenino","Coquimbo","Concepción","Concepción","Calle 50",241
+"20069605-6","Francisca Perez",767,755,697,774,810,677,685,"Masculino","Coquimbo","Santiago","Porvenir","Calle 28",860
+"20119593-4","Camila Osorio",660,681,779,723,814,827,818,"Masculino","Coquimbo","Porvenir","Porvenir","Calle 3",471
+"14534031-7","Mariana Gonzalez",721,736,726,750,789,805,724,"Femenino","Los Lagos","Osorno","Osorno","Calle 144",33
+"12075412-6","Luis Diaz",730,734,830,751,733,775,705,"Femenino","Los Lagos","Santiago","Santiago Centro","Calle 144",803
+"14884387-2","Diego Perez",653,693,751,741,848,821,808,"Femenino","Metropolitana","Porvenir","Santiago Centro","Calle 22",229
+"24194726-5","Sofia Rodriguez",725,839,732,714,741,656,729,"Masculino","Santiago","Santiago","Valparaíso","Calle 13",569
+"24258312-6","Sofia Rodriguez",696,814,680,812,746,742,659,"Femenino","Aconcagua","Santiago","Osorno","Calle 31",749
+"24763567-2","Mariana Larrahona",833,745,757,689,754,723,810,"Masculino","Santiago","Valparaíso","Valparaíso","Calle 126",261
+"22054515-6","Mariana Perez",663,689,806,651,760,721,788,"Masculino","Los Lagos","Porvenir","Lago Verde","Calle 77",719
+"22789504-7","Camila Lopez",700,728,682,823,799,695,715,"Masculino","Santiago","Santiago","Valparaíso","Calle 114",665
+"11963613-3","Victor Rodriguez",804,848,804,668,672,681,785,"Femenino","Los Lagos","Osorno","Valparaíso","Calle 143",474
+"24182159-7","Camila Osorio",724,663,802,739,771,734,767,"Femenino","Los Lagos","Porvenir","Concepción","Calle 47",211
+"13492298-3","Javier Perez",826,755,721,682,669,744,672,"Femenino","Santiago","Osorno","Lago Verde","Calle 112",696
+"16766786-3","Javier Larrahona",806,833,741,736,757,835,758,"Femenino","Los Lagos","Valparaíso","Santiago Centro","Calle 116",804
+"13388267-5","Ana Hernandez",815,697,705,780,659,796,691,"Masculino","Los Lagos","Osorno","Santiago Centro","Calle 69",903
+"21588137-3","Ana Larrahona",668,738,689,814,844,737,678,"Femenino","Aconcagua","Santiago","Osorno","Calle 2",875
+"10703096-6","Francisca Perez",670,652,712,841,786,722,776,"Femenino","Metropolitana","Porvenir","Valparaíso","Calle 114",772
+"18873261-4","Diego Perez",698,767,757,710,676,785,829,"Femenino","Coquimbo","Valparaíso","Valparaíso","Calle 144",60
+"17123649-5","Diego Rodriguez",655,672,721,708,724,747,777,"Masculino","Aconcagua","Coquimbo","Concepción","Calle 114",427
+"21219615-9","Diego Rodriguez",718,724,659,713,752,690,828,"Masculino","Metropolitana","Valparaíso","Lago Verde","Calle 12",699
+"12346412-4","Camila Hernandez",793,710,664,662,666,691,653,"Masculino","Biobío","Porvenir","Santiago Centro","Calle 103",873
+"11003478-0","Victor Gonzalez",850,772,691,722,717,761,822,"Masculino","Metropolitana","Concepción","Valparaíso","Calle 49",234
+"12619303-9","Javier Osorio",756,744,801,666,741,688,664,"Masculino","Coquimbo","Santiago","Osorno","Calle 82",206
+"24170311-1","Francisca Lopez",727,711,753,762,712,672,812,"Masculino","Aconcagua","Porvenir","Concepción","Calle 34",25
+"18161268-8","Sofia Garcia",776,844,741,744,773,804,827,"Masculino","Los Lagos","Valparaíso","Santiago Centro","Calle 123",890
+"10419718-9","Camila Hernandez",839,785,689,830,810,653,681,"Femenino","Los Lagos","Osorno","Valparaíso","Calle 20",574
+"13992827-9","Diego Rodriguez",718,837,779,657,692,683,845,"Femenino","Metropolitana","Porvenir","Concepción","Calle 131",180
+"19958206-5","Victor Garcia",769,740,759,814,743,803,666,"Masculino","Santiago","Santiago","Lago Verde","Calle 30",291
+"19852441-0","Javier Hernandez",679,698,795,661,672,696,733,"Femenino","Santiago","Santiago","Concepción","Calle 1",841
+"22115708-2","Carlos Hernandez",711,738,724,733,750,841,712,"Femenino","Los Lagos","Concepción","Concepción","Calle 150",556
+"10640308-5","Francisca Osorio",822,677,779,654,689,714,793,"Femenino","Metropolitana","Coquimbo","Santiago Centro","Calle 15",942
+"23399914-8","Ana Perez",765,805,777,706,666,848,680,"Femenino","Los Lagos","Santiago","Valparaíso","Calle 107",1
+"13351321-6","Luis Rodriguez",717,767,837,699,845,794,749,"Masculino","Aconcagua","Coquimbo","Porvenir","Calle 31",267
+"19965270-9","Mariana Hernandez",717,693,796,828,736,776,759,"Masculino","Santiago","Porvenir","Porvenir","Calle 26",113
+"20435027-7","Camila Diaz",745,828,843,812,700,820,719,"Masculino","Metropolitana","Valparaíso","Concepción","Calle 148",616
+"13676616-8","Camila Garcia",741,700,770,782,672,813,718,"Masculino","Aconcagua","Coquimbo","Concepción","Calle 99",910
+"16603030-5","Francisca Larrahona",829,680,690,849,741,815,683,"Femenino","Biobío","Santiago","Santiago Centro","Calle 66",272
+"15950592-9","Victor Lopez",719,726,654,757,665,733,733,"Masculino","Santiago","Porvenir","Porvenir","Calle 41",24
+"16932336-9","Carlos Gonzalez",691,818,771,686,775,709,799,"Femenino","Aconcagua","Porvenir","Concepción","Calle 93",731
+"15274396-9","Luis Lopez",669,724,655,832,789,666,788,"Femenino","Coquimbo","Valparaíso","Lago Verde","Calle 146",98
+"11733588-6","Ana Garcia",724,834,763,803,766,841,779,"Femenino","Santiago","Osorno","Santiago Centro","Calle 47",706
+"22285684-9","Carlos Perez",689,695,676,709,767,754,750,"Femenino","Coquimbo","Osorno","Lago Verde","Calle 122",487
+"12644691-5","Francisca Garcia",798,700,789,760,745,708,806,"Masculino","Los Lagos","Coquimbo","Osorno","Calle 10",87
+"20410844-0","Ana Rodriguez",707,709,747,833,703,803,780,"Masculino","Coquimbo","Valparaíso","Valparaíso","Calle 6",618
+"22527012-8","Javier Perez",732,711,791,680,780,730,770,"Masculino","Metropolitana","Coquimbo","Concepción","Calle 90",984
+"19636002-8","Francisca Gonzalez",692,766,779,767,784,681,718,"Masculino","Biobío","Concepción","Porvenir","Calle 47",107
+"14300291-9","Javier Diaz",650,704,729,701,652,720,781,"Femenino","Santiago","Valparaíso","Valparaíso","Calle 23",415
+"24734724-4","Carlos Rodriguez",811,763,792,786,702,718,711,"Femenino","Santiago","Osorno","Lago Verde","Calle 57",969
+"11618567-6","Ana Gonzalez",725,671,710,658,797,762,796,"Femenino","Coquimbo","Valparaíso","Valparaíso","Calle 124",400
+"24219860-1","Camila Rodriguez",791,801,772,830,668,806,772,"Femenino","Aconcagua","Osorno","Concepción","Calle 113",992
+"21090334-5","Camila Martinez",716,661,766,666,710,737,760,"Masculino","Biobío","Coquimbo","Lago Verde","Calle 36",894
+"23040572-8","Camila Rodriguez",697,764,801,754,781,777,718,"Masculino","Los Lagos","Santiago","Lago Verde","Calle 68",704
+"21509648-4","Victor Martinez",669,693,780,755,675,670,667,"Femenino","Los Lagos","Concepción","Santiago Centro","Calle 149",375
+"21305947-4","Sofia Martinez",739,797,683,801,785,697,791,"Femenino","Santiago","Porvenir","Valparaíso","Calle 37",699
+"16794036-6","Sofia Diaz",781,749,692,750,765,734,850,"Femenino","Biobío","Valparaíso","Osorno","Calle 88",660
+"23837521-0","Javier Lopez",653,710,817,712,826,814,769,"Femenino","Los Lagos","Valparaíso","Porvenir","Calle 100",97
+"24703873-0","Sofia Diaz",842,772,708,838,707,788,833,"Masculino","Santiago","Coquimbo","Porvenir","Calle 66",36
+"18455308-7","Luis Lopez",730,826,679,745,792,835,788,"Masculino","Metropolitana","Concepción","Lago Verde","Calle 23",464
+"21561982-2","Carlos Perez",685,821,793,804,850,660,838,"Masculino","Coquimbo","Porvenir","Valparaíso","Calle 35",898
+"23726849-4","Mariana Rodriguez",794,715,786,677,662,736,812,"Femenino","Los Lagos","Santiago","Valparaíso","Calle 58",987
+"22502603-8","Victor Perez",816,814,706,770,766,799,820,"Femenino","Metropolitana","Valparaíso","Osorno","Calle 2",810
+"10850089-5","Diego Larrahona",708,668,713,663,838,741,763,"Masculino","Metropolitana","Porvenir","Santiago Centro","Calle 104",595
+"16931689-5","Javier Gonzalez",718,726,824,790,680,666,775,"Femenino","Coquimbo","Coquimbo","Santiago Centro","Calle 48",327
+"14134991-2","Victor Garcia",786,752,832,696,692,728,829,"Femenino","Santiago","Coquimbo","Porvenir","Calle 74",926
+"12313178-2","Javier Lopez",680,743,740,663,768,683,687,"Masculino","Aconcagua","Osorno","Concepción","Calle 44",652
+"14331998-1","Diego Larrahona",847,705,760,742,776,746,842,"Femenino","Santiago","Osorno","Lago Verde","Calle 144",943
+"17217942-2","Camila Rodriguez",690,782,693,658,654,722,719,"Masculino","Aconcagua","Valparaíso","Concepción","Calle 9",28
+"18938812-6","Francisca Rodriguez",808,848,766,727,673,684,675,"Femenino","Metropolitana","Valparaíso","Valparaíso","Calle 145",218
+"24488862-8","Sofia Larrahona",684,793,850,697,735,653,653,"Masculino","Coquimbo","Valparaíso","Porvenir","Calle 57",843
+"12348257-5","Mariana Gonzalez",722,757,707,718,747,767,731,"Masculino","Los Lagos","Osorno","Porvenir","Calle 150",728
+"17947947-8","Diego Garcia",698,751,850,739,813,690,820,"Masculino","Santiago","Santiago","Concepción","Calle 51",666
+"15984860-6","Javier Rodriguez",815,705,825,727,836,770,765,"Femenino","Biobío","Osorno","Lago Verde","Calle 47",98
+"17005216-2","Francisca Diaz",731,675,846,849,815,724,756,"Femenino","Aconcagua","Osorno","Porvenir","Calle 6",80
+"19134945-4","Carlos Perez",794,822,689,720,718,690,695,"Masculino","Metropolitana","Valparaíso","Santiago Centro","Calle 51",610
+"23693950-2","Sofia Larrahona",726,687,711,708,740,819,807,"Masculino","Santiago","Porvenir","Lago Verde","Calle 146",350
+"11940696-1","Carlos Osorio",757,659,783,713,710,665,719,"Femenino","Metropolitana","Osorno","Lago Verde","Calle 78",916
+"21409781-2","Victor Osorio",824,817,753,694,668,757,845,"Femenino","Biobío","Porvenir","Porvenir","Calle 107",471
+"17509368-1","Ana Perez",742,659,671,706,661,662,661,"Masculino","Los Lagos","Porvenir","Lago Verde","Calle 71",791
+"16282704-5","Mariana Rodriguez",702,687,739,695,682,801,761,"Masculino","Los Lagos","Coquimbo","Valparaíso","Calle 150",860
+"21085223-9","Mariana Larrahona",665,700,815,726,680,735,830,"Masculino","Aconcagua","Santiago","Osorno","Calle 92",1
+"16260249-3","Diego Garcia",792,806,685,775,685,773,678,"Femenino","Coquimbo","Porvenir","Santiago Centro","Calle 1",211
+"24471123-8","Ana Diaz",740,703,664,834,792,824,691,"Masculino","Biobío","Santiago","Santiago Centro","Calle 9",383
+"20909385-0","Camila Lopez",799,734,826,766,677,653,701,"Femenino","Biobío","Santiago","Porvenir","Calle 109",66
+"22469585-7","Carlos Lopez",785,715,804,822,785,849,784,"Femenino","Biobío","Osorno","Porvenir","Calle 109",576
+"17739402-0","Carlos Martinez",714,841,721,797,735,775,720,"Masculino","Los Lagos","Porvenir","Santiago Centro","Calle 76",675
+"17061889-2","Luis Larrahona",847,796,706,765,695,787,752,"Femenino","Santiago","Porvenir","Osorno","Calle 30",383
+"23410444-2","Francisca Osorio",847,796,735,820,772,776,761,"Femenino","Santiago","Concepción","Porvenir","Calle 87",206
+"11429597-9","Luis Perez",654,765,756,849,837,686,753,"Masculino","Santiago","Coquimbo","Santiago Centro","Calle 105",627
+"11044164-3","Carlos Perez",658,726,791,760,721,667,812,"Femenino","Santiago","Osorno","Lago Verde","Calle 22",567
+"21644320-0","Francisca Lopez",680,682,721,785,691,727,783,"Masculino","Aconcagua","Porvenir","Osorno","Calle 62",885
+"10751028-1","Carlos Larrahona",716,687,652,792,719,751,818,"Femenino","Coquimbo","Concepción","Porvenir","Calle 54",109
+"13227851-2","Luis Gonzalez",818,713,713,746,845,799,680,"Femenino","Santiago","Coquimbo","Valparaíso","Calle 120",522
+"17625349-9","Diego Larrahona",681,814,819,670,692,742,779,"Masculino","Santiago","Valparaíso","Santiago Centro","Calle 80",269
+"19317778-2","Camila Rodriguez",702,848,668,827,729,796,772,"Masculino","Coquimbo","Valparaíso","Lago Verde","Calle 95",169
+"13106122-3","Diego Hernandez",672,675,808,754,752,769,822,"Masculino","Los Lagos","Valparaíso","Valparaíso","Calle 125",906
+"12887689-9","Luis Larrahona",731,824,821,730,840,827,769,"Femenino","Biobío","Coquimbo","Osorno","Calle 57",760
+"11531227-6","Carlos Lopez",707,686,770,761,817,687,679,"Masculino","Biobío","Porvenir","Valparaíso","Calle 18",331
+"19536720-3","Carlos Perez",800,681,758,835,823,817,776,"Femenino","Santiago","Valparaíso","Porvenir","Calle 48",210
+"13802760-4","Luis Rodriguez",764,772,847,710,669,784,650,"Masculino","Santiago","Coquimbo","Santiago Centro","Calle 41",1
+"19105515-7","Camila Garcia",674,694,803,682,656,744,760,"Femenino","Metropolitana","Valparaíso","Valparaíso","Calle 93",346
+"17459076-1","Ana Perez",687,689,806,710,850,685,657,"Femenino","Santiago","Valparaíso","Concepción","Calle 145",866
+"14576329-9","Diego Hernandez",679,746,688,800,830,661,711,"Femenino","Biobío","Coquimbo","Porvenir","Calle 96",782
+"14771082-6","Victor Rodriguez",815,685,798,847,757,762,820,"Masculino","Los Lagos","Santiago","Valparaíso","Calle 100",954
+"10345823-2","Javier Perez",781,833,834,730,660,787,822,"Femenino","Coquimbo","Porvenir","Porvenir","Calle 39",441
+"24342839-6","Sofia Martinez",765,699,766,677,698,837,694,"Masculino","Coquimbo","Concepción","Valparaíso","Calle 22",812
+"22837719-2","Ana Lopez",719,717,653,751,651,787,754,"Femenino","Santiago","Santiago","Osorno","Calle 81",326
+"17178151-5","Luis Lopez",803,689,659,781,753,723,750,"Femenino","Biobío","Porvenir","Porvenir","Calle 78",136
+"12296886-9","Javier Gonzalez",688,677,832,659,678,742,765,"Femenino","Los Lagos","Coquimbo","Valparaíso","Calle 4",11
+"17841629-3","Francisca Martinez",745,833,684,806,814,724,714,"Masculino","Metropolitana","Osorno","Valparaíso","Calle 4",753
+"10647832-5","Francisca Hernandez",804,734,764,824,734,765,786,"Femenino","Coquimbo","Osorno","Concepción","Calle 129",527
+"16877976-3","Ana Hernandez",775,703,764,651,679,821,680,"Femenino","Biobío","Valparaíso","Lago Verde","Calle 11",569
+"23501619-5","Diego Rodriguez",839,704,816,784,829,710,655,"Femenino","Metropolitana","Porvenir","Santiago Centro","Calle 116",576
+"17659760-7","Luis Hernandez",724,770,679,731,783,774,755,"Femenino","Biobío","Concepción","Osorno","Calle 76",336
+"20903086-4","Victor Rodriguez",798,813,670,690,840,703,719,"Masculino","Metropolitana","Valparaíso","Osorno","Calle 83",448
+"21401781-2","Sofia Rodriguez",746,695,687,650,704,843,836,"Femenino","Los Lagos","Valparaíso","Osorno","Calle 57",375
+"23047454-9","Luis Osorio",764,805,774,660,812,810,781,"Masculino","Aconcagua","Concepción","Lago Verde","Calle 22",516
+"12381414-3","Diego Rodriguez",721,744,779,849,676,670,660,"Masculino","Los Lagos","Santiago","Porvenir","Calle 40",244
+"13095739-8","Carlos Perez",666,661,695,763,690,796,789,"Femenino","Biobío","Valparaíso","Porvenir","Calle 147",46
+"19096490-2","Javier Osorio",773,660,685,663,709,694,738,"Masculino","Biobío","Concepción","Valparaíso","Calle 38",928
+"20310844-9","Javier Rodriguez",743,679,831,657,681,783,740,"Masculino","Aconcagua","Concepción","Osorno","Calle 128",402
+"13545276-1","Francisca Osorio",727,788,659,657,709,844,793,"Masculino","Santiago","Porvenir","Lago Verde","Calle 75",845
+"13708285-5","Camila Gonzalez",801,666,686,848,733,739,670,"Femenino","Aconcagua","Coquimbo","Valparaíso","Calle 144",237
+"15488958-5","Sofia Lopez",784,800,821,840,735,770,680,"Masculino","Aconcagua","Santiago","Santiago Centro","Calle 7",163
+"19553537-7","Luis Perez",844,723,845,712,653,813,795,"Masculino","Santiago","Valparaíso","Santiago Centro","Calle 65",740
+"23065546-4","Victor Martinez",810,703,748,827,752,723,811,"Masculino","Coquimbo","Osorno","Santiago Centro","Calle 130",930
+"22082374-2","Ana Hernandez",673,781,784,785,828,716,795,"Femenino","Aconcagua","Porvenir","Concepción","Calle 71",34
+"15691463-9","Javier Lopez",736,719,660,722,743,653,721,"Femenino","Santiago","Coquimbo","Osorno","Calle 108",560
+"20762320-6","Camila Rodriguez",770,751,767,815,817,687,806,"Masculino","Coquimbo","Concepción","Santiago Centro","Calle 20",342
+"18769959-3","Ana Hernandez",695,818,779,710,815,728,686,"Femenino","Los Lagos","Valparaíso","Santiago Centro","Calle 67",637
+"10380031-0","Luis Osorio",676,741,754,825,811,816,840,"Femenino","Santiago","Osorno","Santiago Centro","Calle 141",177
+"24816731-3","Victor Gonzalez",789,773,662,836,667,843,818,"Femenino","Aconcagua","Porvenir","Concepción","Calle 70",376
+"22643012-3","Carlos Diaz",698,769,809,755,735,762,748,"Femenino","Coquimbo","Osorno","Porvenir","Calle 149",89
+"18513725-6","Carlos Larrahona",785,697,788,686,752,662,750,"Femenino","Coquimbo","Coquimbo","Lago Verde","Calle 95",560
+"17478793-2","Sofia Perez",735,722,736,705,684,712,683,"Masculino","Metropolitana","Valparaíso","Lago Verde","Calle 51",373
+"13806000-6","Sofia Gonzalez",747,656,689,774,679,744,840,"Masculino","Santiago","Porvenir","Osorno","Calle 47",629
+"13974565-3","Camila Osorio",782,828,817,701,652,801,740,"Femenino","Biobío","Concepción","Santiago Centro","Calle 53",609
+"17607830-2","Luis Perez",771,801,772,722,721,719,653,"Masculino","Metropolitana","Concepción","Lago Verde","Calle 113",35
+"20589783-3","Francisca Larrahona",726,731,655,777,722,715,743,"Masculino","Coquimbo","Valparaíso","Concepción","Calle 132",736
+"21892124-9","Victor Rodriguez",744,737,654,780,681,807,766,"Masculino","Santiago","Osorno","Valparaíso","Calle 25",757
+"24071546-5","Victor Hernandez",803,721,806,683,679,789,650,"Femenino","Los Lagos","Porvenir","Santiago Centro","Calle 24",230
+"24716149-7","Carlos Larrahona",669,841,750,748,802,739,746,"Masculino","Metropolitana","Concepción","Concepción","Calle 128",936
+"21696817-2","Sofia Perez",806,709,825,650,693,690,809,"Masculino","Biobío","Coquimbo","Valparaíso","Calle 140",979
+"12106333-1","Luis Hernandez",833,665,837,772,668,777,789,"Femenino","Coquimbo","Santiago","Osorno","Calle 134",236
+"14270655-7","Victor Larrahona",786,773,842,817,715,836,724,"Masculino","Biobío","Concepción","Concepción","Calle 110",460
+"22147475-8","Ana Rodriguez",698,696,659,835,693,693,789,"Masculino","Los Lagos","Valparaíso","Valparaíso","Calle 29",881
+"20985916-2","Luis Garcia",827,806,779,780,752,764,777,"Masculino","Aconcagua","Santiago","Concepción","Calle 81",987
+"16172565-5","Ana Hernandez",691,710,748,745,667,779,660,"Masculino","Los Lagos","Valparaíso","Santiago Centro","Calle 18",422
+"24465719-0","Victor Gonzalez",850,711,758,655,723,751,664,"Masculino","Biobío","Osorno","Valparaíso","Calle 86",174
+"17012799-1","Diego Martinez",788,802,840,753,700,837,805,"Femenino","Santiago","Coquimbo","Concepción","Calle 2",904
+"21803550-7","Sofia Osorio",714,718,767,730,763,820,775,"Masculino","Coquimbo","Concepción","Osorno","Calle 25",374
+"11564475-6","Sofia Rodriguez",747,672,792,669,761,818,711,"Masculino","Aconcagua","Osorno","Concepción","Calle 93",641
+"24982367-0","Mariana Garcia",762,716,847,796,696,764,836,"Masculino","Metropolitana","Coquimbo","Porvenir","Calle 56",20
+"24248634-8","Luis Perez",711,719,710,795,696,759,800,"Masculino","Coquimbo","Porvenir","Valparaíso","Calle 5",589
+"22119210-6","Mariana Martinez",663,796,664,748,780,833,846,"Masculino","Metropolitana","Coquimbo","Lago Verde","Calle 110",759
+"24274019-7","Mariana Perez",737,660,826,768,847,725,804,"Femenino","Biobío","Osorno","Osorno","Calle 94",330
+"15176830-3","Carlos Diaz",686,789,812,793,825,714,832,"Masculino","Metropolitana","Valparaíso","Valparaíso","Calle 62",729
+"12542496-5","Javier Gonzalez",754,839,834,742,832,804,734,"Femenino","Santiago","Valparaíso","Valparaíso","Calle 145",863
+"11785817-0","Mariana Lopez",742,721,699,788,767,811,669,"Masculino","Aconcagua","Santiago","Santiago Centro","Calle 127",32
+"15672628-5","Victor Rodriguez",787,720,723,718,821,827,812,"Masculino","Aconcagua","Coquimbo","Concepción","Calle 132",167
+"19036652-5","Victor Martinez",698,728,785,716,680,688,764,"Femenino","Coquimbo","Osorno","Lago Verde","Calle 127",225
+"12655111-0","Victor Martinez",701,748,785,687,824,805,804,"Masculino","Biobío","Concepción","Porvenir","Calle 37",897
+"15208949-1","Camila Garcia",848,656,754,685,829,718,716,"Masculino","Los Lagos","Santiago","Lago Verde","Calle 104",432
+"19154265-7","Mariana Gonzalez",799,662,781,743,746,824,654,"Femenino","Aconcagua","Valparaíso","Porvenir","Calle 77",570
+"18310824-7","Sofia Larrahona",821,733,765,677,838,806,667,"Femenino","Metropolitana","Porvenir","Lago Verde","Calle 65",359
+"22067016-3","Luis Perez",660,850,664,704,669,831,833,"Masculino","Santiago","Osorno","Santiago Centro","Calle 77",624
+"24706754-7","Francisca Martinez",667,789,730,838,719,670,807,"Masculino","Aconcagua","Concepción","Concepción","Calle 17",403
+"10082496-8","Javier Martinez",776,752,811,670,828,846,814,"Femenino","Metropolitana","Osorno","Osorno","Calle 120",803
+"23399580-3","Ana Larrahona",789,722,804,745,833,661,844,"Masculino","Santiago","Concepción","Osorno","Calle 82",954
+"23453435-6","Diego Lopez",848,813,848,776,735,685,817,"Masculino","Coquimbo","Coquimbo","Lago Verde","Calle 150",36
+"24891052-8","Ana Osorio",780,683,662,787,765,742,766,"Masculino","Metropolitana","Concepción","Porvenir","Calle 104",896
+"15905036-3","Camila Perez",836,838,785,669,693,845,726,"Masculino","Biobío","Santiago","Concepción","Calle 71",28
+"18995421-8","Javier Martinez",823,833,674,818,821,802,732,"Femenino","Aconcagua","Santiago","Valparaíso","Calle 54",588
+"10723975-6","Carlos Perez",731,762,841,696,707,778,685,"Femenino","Aconcagua","Osorno","Lago Verde","Calle 65",124
+"15423024-6","Ana Martinez",840,725,830,755,811,803,708,"Masculino","Coquimbo","Santiago","Santiago Centro","Calle 68",481
+"15686905-2","Mariana Rodriguez",761,791,777,679,719,701,744,"Femenino","Los Lagos","Concepción","Porvenir","Calle 45",662
+"18724550-3","Francisca Rodriguez",698,723,830,827,723,841,666,"Masculino","Aconcagua","Coquimbo","Concepción","Calle 89",503
+"23217872-7","Ana Rodriguez",719,665,767,724,755,728,845,"Femenino","Los Lagos","Coquimbo","Valparaíso","Calle 90",47
+"21845186-4","Sofia Diaz",679,747,675,677,784,791,736,"Masculino","Biobío","Osorno","Lago Verde","Calle 51",547
+"10902555-5","Javier Gonzalez",847,723,789,731,756,741,754,"Femenino","Coquimbo","Porvenir","Lago Verde","Calle 17",481
+"18956576-3","Javier Lopez",685,843,694,843,666,825,791,"Masculino","Coquimbo","Santiago","Valparaíso","Calle 125",276
+"12992191-2","Carlos Osorio",830,798,793,670,689,663,788,"Femenino","Metropolitana","Valparaíso","Osorno","Calle 90",515
+"18428763-3","Javier Lopez",806,785,787,750,830,710,703,"Femenino","Aconcagua","Coquimbo","Osorno","Calle 90",129
+"24500675-9","Carlos Diaz",686,682,654,835,814,657,782,"Femenino","Santiago","Santiago","Porvenir","Calle 149",622
+"17938378-4","Diego Lopez",838,746,824,832,792,740,775,"Masculino","Metropolitana","Coquimbo","Valparaíso","Calle 25",523
+"11212706-0","Sofia Hernandez",759,737,655,796,822,667,692,"Masculino","Coquimbo","Osorno","Osorno","Calle 9",762
+"13990422-8","Carlos Martinez",819,795,798,792,698,664,661,"Masculino","Aconcagua","Valparaíso","Osorno","Calle 82",355
+"24198206-7","Victor Lopez",831,769,730,737,730,704,719,"Masculino","Coquimbo","Concepción","Lago Verde","Calle 27",227
+"13163476-4","Javier Rodriguez",819,665,675,819,798,811,812,"Masculino","Metropolitana","Valparaíso","Concepción","Calle 87",547
+"14162039-1","Camila Osorio",832,653,750,702,807,674,664,"Femenino","Los Lagos","Porvenir","Osorno","Calle 127",311
+"17717649-3","Sofia Hernandez",839,816,756,718,813,771,666,"Masculino","Biobío","Osorno","Lago Verde","Calle 113",82
+"16925422-6","Mariana Hernandez",695,747,744,795,775,835,720,"Femenino","Coquimbo","Valparaíso","Valparaíso","Calle 99",166
+"17726151-0","Francisca Lopez",806,839,725,690,831,650,842,"Femenino","Santiago","Concepción","Valparaíso","Calle 101",526
+"17859146-4","Mariana Rodriguez",700,741,692,724,715,703,771,"Masculino","Biobío","Porvenir","Valparaíso","Calle 131",469
+"10704206-8","Diego Lopez",681,813,673,742,661,689,795,"Masculino","Coquimbo","Santiago","Osorno","Calle 150",415
+"13621481-3","Carlos Perez",778,800,849,714,676,721,716,"Femenino","Los Lagos","Concepción","Santiago Centro","Calle 128",299
+"17048168-8","Luis Larrahona",811,849,714,656,716,667,658,"Masculino","Metropolitana","Concepción","Porvenir","Calle 95",291
+"12318722-6","Ana Garcia",659,796,812,695,668,816,660,"Masculino","Biobío","Osorno","Santiago Centro","Calle 78",655
+"14451447-7","Victor Garcia",718,720,711,812,811,822,797,"Femenino","Biobío","Valparaíso","Valparaíso","Calle 128",970
+"13446116-7","Luis Garcia",654,843,723,662,673,728,826,"Masculino","Biobío","Concepción","Osorno","Calle 5",933
+"14379146-9","Camila Gonzalez",832,795,805,729,813,753,800,"Masculino","Metropolitana","Porvenir","Concepción","Calle 43",794
+"24062468-7","Francisca Lopez",771,706,701,773,804,739,772,"Femenino","Coquimbo","Porvenir","Porvenir","Calle 113",652
+"20458968-9","Carlos Osorio",763,825,800,677,727,729,824,"Masculino","Santiago","Porvenir","Valparaíso","Calle 21",325
+"23553394-9","Javier Larrahona",779,771,664,746,689,673,763,"Femenino","Biobío","Valparaíso","Porvenir","Calle 8",288
+"21317050-7","Victor Hernandez",804,672,816,762,826,761,803,"Masculino","Metropolitana","Porvenir","Lago Verde","Calle 40",858
+"14179271-9","Javier Larrahona",711,762,704,657,734,821,813,"Masculino","Metropolitana","Valparaíso","Osorno","Calle 144",224
+"20454694-6","Carlos Martinez",788,788,735,700,839,745,660,"Femenino","Metropolitana","Porvenir","Concepción","Calle 51",412
+"20814992-3","Victor Rodriguez",713,779,770,717,799,729,821,"Femenino","Biobío","Coquimbo","Valparaíso","Calle 12",301
+"18348576-4","Mariana Gonzalez",750,695,793,757,766,820,726,"Femenino","Coquimbo","Valparaíso","Lago Verde","Calle 89",413
