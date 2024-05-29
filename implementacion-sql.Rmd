@@ -21,7 +21,10 @@ library(openxlsx)
 library(sjmisc)
 ```
 
-# Introducción
+# Introducción [^1].
+
+[^1]: [\textcolor{blue}{La documentación se podrá encontrar en el siguiente GitHub}](https://github.com/matdknu/f_bbdd).
+
 
 En el presente trabajo realizaremos la creación de una base de datos relacional asociadas al diseño propuesto. Dado que no existió una buena calificación y el feedback señaló la "necesidad de mejorar", se establecieron variados ajustes a ella.
 
